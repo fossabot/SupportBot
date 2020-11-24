@@ -1,4 +1,6 @@
 # SupportBot v1.8.1
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBoatBotProject%2FBoatBot2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBoatBotProject%2FBoatBot2?ref=badge_shield)
+
 League of Legends Statistics for Discord
 (c) 2018; source available, all rights reserved
 
@@ -92,3 +94,7 @@ League of Legends Statistics for Discord
 see https://supportbot.tk/
 ## Installation
 see https://github.com/iaace-NA/SupportBot/wiki
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBoatBotProject%2FBoatBot2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBoatBotProject%2FBoatBot2?ref=badge_large)
